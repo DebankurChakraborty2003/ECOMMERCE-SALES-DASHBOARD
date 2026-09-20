@@ -42,4 +42,4 @@ E-commerce businesses process large volumes of transactional data across multipl
 - Logistics & Delivery Strategy: Standard Class accounts for 60.51% of shipments. Operations can focus on optimizing standard logistics routes while testing incentives for premium shipping methods.
 - Inventory Management: Clear distinction between Top 5 and Bottom 5 items assists inventory teams in restocking high-demand items (Staple envelopes) and phasing out low-turnover stock.
 ## Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/DebankurChakraborty2003/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20PNG.png)
